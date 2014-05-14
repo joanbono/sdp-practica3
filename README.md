@@ -1,4 +1,16 @@
-sdp-practica3
+Sistemas Digitales Programables 
+Práctica 3
 =============
 
-Sistemas Digitales Programables - Practica 3
+Lenguaje:
+
+        Verilog
+        
+Realizado por:
+        <pre>Joan Bono
+Dario Alandes </pre>
+
+
+ETS Enginyers de Telecomunicacions.
+
+Universitat Politècnica de Valencia.
